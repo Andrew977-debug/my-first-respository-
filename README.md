@@ -1,1 +1,2 @@
-# my-first-respository-A
+# my-first-respository-Andrew Destacamento BSIT2E Hello! I am an Information Technology student. I am interested in learning more about technology, programming, and computer systems.
+My goal is to improve my programming and GitHub skills and learn how to create and manage projects using Git.
